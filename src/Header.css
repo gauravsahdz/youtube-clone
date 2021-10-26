@@ -1,0 +1,59 @@
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  z-index: 99;
+  height: 60px;
+  background-color: rgba(128, 128, 128, 0.253);
+}
+.menu {
+  margin-left: 30px;
+}
+.logo {
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+  width: 200px;
+}
+.yt_logo {
+  height: 60px;
+  width: 100px;
+}
+.yt_tag {
+  color: white;
+  font-size: 25px;
+  font-weight: 650;
+  margin-left: -25px;
+}
+.searchingBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 60px;
+}
+.search_box {
+  width: 600px;
+  height: 25px;
+  background-color: black;
+  color: white;
+  border: 1px solid gray;
+}
+.search_Icon {
+  color: white;
+  background-color: rgba(128, 128, 128, 0.253);
+  padding: 4px;
+  height: 22px !important;
+  cursor: pointer;
+}
+.header_right {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+}
+.icon {
+  color: white;
+  margin: 0 5px;
+  cursor: pointer;
+}
