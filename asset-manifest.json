@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/youtube-clone/static/css/main.60d840fb.chunk.css",
-    "main.js": "/youtube-clone/static/js/main.ecee070b.chunk.js",
-    "main.js.map": "/youtube-clone/static/js/main.ecee070b.chunk.js.map",
-    "runtime-main.js": "/youtube-clone/static/js/runtime-main.69f9d944.js",
-    "runtime-main.js.map": "/youtube-clone/static/js/runtime-main.69f9d944.js.map",
-    "static/js/2.369604bf.chunk.js": "/youtube-clone/static/js/2.369604bf.chunk.js",
-    "static/js/2.369604bf.chunk.js.map": "/youtube-clone/static/js/2.369604bf.chunk.js.map",
-    "static/js/3.b6e39df6.chunk.js": "/youtube-clone/static/js/3.b6e39df6.chunk.js",
-    "static/js/3.b6e39df6.chunk.js.map": "/youtube-clone/static/js/3.b6e39df6.chunk.js.map",
-    "index.html": "/youtube-clone/index.html",
-    "static/css/main.60d840fb.chunk.css.map": "/youtube-clone/static/css/main.60d840fb.chunk.css.map",
-    "static/js/2.369604bf.chunk.js.LICENSE.txt": "/youtube-clone/static/js/2.369604bf.chunk.js.LICENSE.txt"
+    "main.css": "/youtube-clone-react/static/css/main.60d840fb.chunk.css",
+    "main.js": "/youtube-clone-react/static/js/main.ecee070b.chunk.js",
+    "main.js.map": "/youtube-clone-react/static/js/main.ecee070b.chunk.js.map",
+    "runtime-main.js": "/youtube-clone-react/static/js/runtime-main.8106bcbb.js",
+    "runtime-main.js.map": "/youtube-clone-react/static/js/runtime-main.8106bcbb.js.map",
+    "static/js/2.369604bf.chunk.js": "/youtube-clone-react/static/js/2.369604bf.chunk.js",
+    "static/js/2.369604bf.chunk.js.map": "/youtube-clone-react/static/js/2.369604bf.chunk.js.map",
+    "static/js/3.b6e39df6.chunk.js": "/youtube-clone-react/static/js/3.b6e39df6.chunk.js",
+    "static/js/3.b6e39df6.chunk.js.map": "/youtube-clone-react/static/js/3.b6e39df6.chunk.js.map",
+    "index.html": "/youtube-clone-react/index.html",
+    "static/css/main.60d840fb.chunk.css.map": "/youtube-clone-react/static/css/main.60d840fb.chunk.css.map",
+    "static/js/2.369604bf.chunk.js.LICENSE.txt": "/youtube-clone-react/static/js/2.369604bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.69f9d944.js",
+    "static/js/runtime-main.8106bcbb.js",
     "static/js/2.369604bf.chunk.js",
     "static/css/main.60d840fb.chunk.css",
     "static/js/main.ecee070b.chunk.js"
