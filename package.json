@@ -1,7 +1,7 @@
 {
   "name": "youtube-clone",
   "version": "0.1.0",
-  "homepage": "http://gauravsahdz.github.io/youtube-clone-react",
+  "homepage": "http://gauravsahdz.github.io/youtube-clone",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.2",
